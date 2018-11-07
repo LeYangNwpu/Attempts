@@ -1,0 +1,5 @@
+This code is modified from:
+Learning Video Object Segmentation from Static Images 
+http://www.mpi-inf.mpg.de/masktrack
+
+The code can synthesize training masks through affine transformation as well as non-rigid deformations via thin-plate splines

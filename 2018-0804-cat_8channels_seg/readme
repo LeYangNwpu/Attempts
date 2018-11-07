@@ -1,0 +1,4 @@
+the input contains 8 channels:
+RGB, gird box, context, box
+
+we imply the correct box crop operation, prepare data before training

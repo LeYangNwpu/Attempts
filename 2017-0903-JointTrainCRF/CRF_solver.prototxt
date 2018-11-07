@@ -1,0 +1,14 @@
+net: "/disk1/yangle/CVPR2018/code/TrainNet/JointTrainCRF/CRF_train_val.prototxt"
+test_iter: 1
+test_interval: 31652
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.6
+stepsize:7913
+display: 5
+max_iter: 94956
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 1978
+snapshot_prefix: "/disk1/yangle/CVPR2018/result/model/JointTrainCRF/jTrain"
+solver_mode: GPU
