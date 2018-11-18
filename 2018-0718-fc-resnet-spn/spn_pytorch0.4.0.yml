@@ -1,0 +1,151 @@
+name: segspn
+channels:
+- pytorch
+- anaconda
+- mingfeima
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+- defaults
+dependencies:
+- cloog=0.18.0=0
+- gcc=4.8.5=7
+- gmp=6.1.2=h6c8ec71_1
+- isl=0.12.2=0
+- libgcc-ng=7.2.0=hdf63c60_3
+- libstdcxx-ng=7.2.0=hdf63c60_3
+- mpc=1.0.3=hec55b23_5
+- mpfr=3.1.5=h11a74b3_2
+- intel-openmp=2018.0.3=0
+- mkl=2018.0.3=1
+- mkl-include=2018.0.3=1
+- bzip2=1.0.6=3
+- certifi=2016.2.28=py35_0
+- cffi=1.10.0=py35_0
+- cmake=3.6.3=0
+- curl=7.54.1=0
+- expat=2.1.0=0
+- krb5=1.13.2=0
+- libffi=3.2.1=1
+- libgfortran=3.0.0=1
+- libssh2=1.8.0=0
+- ncurses=5.9=10
+- numpy=1.10.2=py35_0
+- openblas=0.2.14=4
+- openssl=1.0.2l=0
+- pip=9.0.1=py35_1
+- pycparser=2.18=py35_0
+- python=3.5.4=0
+- pyyaml=3.12=py35_0
+- readline=6.2=2
+- setuptools=36.4.0=py35_1
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- typing=3.6.2=py35_0
+- wheel=0.29.0=py35_0
+- xz=5.2.3=0
+- yaml=0.1.6=0
+- zlib=1.2.11=0
+- mkldnn=0.14.0=0
+- magma-cuda80=2.3.0=1
+- pip:
+  - absl-py==0.2.0
+  - alabaster==0.7.11
+  - astor==0.6.2
+  - atomicwrites==1.2.0
+  - attrs==18.1.0
+  - babel==2.6.0
+  - backcall==0.1.0
+  - bleach==1.5.0
+  - chardet==3.0.4
+  - cycler==0.10.0
+  - cython==0.28.5
+  - decorator==4.3.0
+  - docutils==0.14
+  - entrypoints==0.2.3
+  - enum34==1.1.6
+  - future==0.16.0
+  - gast==0.2.0
+  - glfw==1.7.0
+  - grpcio==1.11.0
+  - gym (/disk5/yangle/software/conda/envs/segspn/lib/python3.5/site-packages)==0.8.2
+  - h5py==2.7.1
+  - html5lib==0.9999999
+  - idna==2.7
+  - imagehash==4.0
+  - imageio==2.3.0
+  - imagesize==1.0.0
+  - imgaug==0.2.5
+  - ipdb==0.11
+  - ipykernel==4.8.2
+  - ipyparallel==6.1.1
+  - ipython==6.5.0
+  - ipython-genutils==0.2.0
+  - ipywidgets==7.2.1
+  - jedi==0.12.1
+  - jinja2==2.10
+  - jsonschema==2.6.0
+  - jupyter-client==5.2.3
+  - jupyter-core==4.4.0
+  - keras==2.1.6
+  - kiwisolver==1.0.1
+  - markdown==2.6.11
+  - markupsafe==1.0
+  - matplotlib==2.2.2
+  - mistune==0.8.3
+  - more-itertools==4.3.0
+  - nbconvert==5.3.1
+  - nbformat==4.4.0
+  - networkx==2.1
+  - nose==1.3.7
+  - notebook==5.4.1
+  - numpydoc==0.8.0
+  - opencv-python==3.4.0.12
+  - packaging==17.1
+  - pandocfilters==1.4.2
+  - parso==0.3.1
+  - pathlib2==2.3.2
+  - pexpect==4.6.0
+  - pickleshare==0.7.4
+  - pillow==5.2.0
+  - pluggy==0.7.1
+  - prompt-toolkit==1.0.15
+  - protobuf==3.5.2.post1
+  - ptyprocess==0.6.0
+  - py==1.6.0
+  - pyglet==1.3.2
+  - pygments==2.2.0
+  - pyopengl==3.1.0
+  - pyparsing==2.2.0
+  - pytest==3.7.3
+  - pytest-instafail==0.3.0
+  - pytz==2018.5
+  - pywavelets==0.5.2
+  - pyzmq==17.0.0
+  - qtconsole==4.3.1
+  - requests==2.19.1
+  - scikit-image==0.13.1
+  - scipy==1.1.0
+  - send2trash==1.5.0
+  - simplegeneric==0.8.1
+  - six==1.11.0
+  - snowballstemmer==1.2.1
+  - sphinx==1.7.8
+  - sphinx-rtd-theme==0.4.1
+  - sphinxcontrib-websupport==1.1.0
+  - tensorboard==1.8.0
+  - tensorflow==1.8.0
+  - tensorflow-tensorboard==0.4.0
+  - termcolor==1.1.0
+  - terminado==0.8.1
+  - testpath==0.3.1
+  - torch==0.4.0a0+3749c58
+  - torchvision==0.2.1
+  - tornado==5.0.2
+  - tqdm==4.23.4
+  - traitlets==4.3.2
+  - urllib3==1.23
+  - wcwidth==0.1.7
+  - werkzeug==0.14.1
+  - widgetsnbextension==3.2.1
+prefix: /home/yangle/software/conda/envs/segspn
+
